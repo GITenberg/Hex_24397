@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25268
     wikipedia: http://en.wikipedia.org/wiki/Laurence_Janifer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24397#Hex
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-01-22'
 gutenberg_type: Text
