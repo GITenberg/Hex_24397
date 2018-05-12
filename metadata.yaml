@@ -1,0 +1,36 @@
+_repo: Hex_24397
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Janifer, Laurence M.
+    aliases:
+    - Logan, William
+    - Harris, Laurence Mark
+    - Harris, Larry M.
+    - Janifer, Laurence Mark
+    - Janifer, Larry
+    birthdate: 1933
+    deathdate: 2002
+    gutenberg_agent_id: '25268'
+    url: http://www.gutenberg.org/2009/agents/25268
+    wikipedia: http://en.wikipedia.org/wiki/Laurence_Janifer
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24397'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parapsychology -- Fiction'
+- !lcsh 'Social workers -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Hex
+url: http://www.gutenberg.org/ebooks/24397
